@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm zoe:)</h1>
 <h3 align="center">A passionate student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoecarmona" alt="zoecarmona" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, Next.js, and more...**
 
 - 💬 Ask me about **Web Development**
