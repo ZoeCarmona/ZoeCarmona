@@ -7,8 +7,7 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.pinimg.com/originals/59/af/2c/59af2cf11abaf80dc85e5f50027a2305.gif)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
