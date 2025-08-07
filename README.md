@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm zoe:)</h1>
-<h3 align="center">A passionate student</h3>
-
-- 🌱 I’m currently learning **JavaScript, Next.js, and more...**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **zocaya2016@gmail.com**
-
-- ⚡ Fun fact **I really love music**
 
 ###
 
@@ -16,6 +7,14 @@
 </div>
 
 ###
+
+- 🌱 I’m currently learning **JavaScript, Next.js, and more...**
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **zocaya2016@gmail.com**
+
+- ⚡ Fun fact **I really love music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
