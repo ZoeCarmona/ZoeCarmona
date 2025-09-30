@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zoecarmona/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="njknk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zoecarmona/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="njknk" height="30" width="40" /></a> <a href="https://x.com/likezjk" target="blank"><img align="center" src="https://lh4.googleusercontent.com/HHGkKMOEJL8l3Y7maTHaQuNKS_qNKSePWHxYIMYnP0-RLew0FzWaswcFUJZ4hyHQbFY2Hep7iXaPKaALiFoNLxmF4s27GwacJQnCRDjO8MR1eOb6o2mxMXE1KR6h0soIKAp5FxXDJKVMoWbityIm8rY" alt="Twitter/X" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
