@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **zocaya2016@gmail.com**
+- 📫 How to reach me **zoe.carmona.dev.com**
 
 - ⚡ Fun fact **I really love music**
 
