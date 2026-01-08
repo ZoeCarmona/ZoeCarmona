@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZoeCarmona&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZoeCarmona&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
   <img src="https://c.tenor.com/QIRmVKGPY9IAAAAC/tenor.gif" width="300" height="250" alt="GIF animado" />
 </div>
 
